@@ -28,4 +28,6 @@
 *.app
 
 # Build folder
-./build/*.tlog
+*.tlog
+*.log
+./build/*
